@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    background-color: antiquewhite;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.arr-container{
+    display: grid;
+    width: 100%;
+    height: 95%;
+    grid-template-columns: 1fr;
+    align-items: end;
+    gap: 5px;
+}
+
+.arr-member{
+    text-align: center;
+    padding: 5px;
+    background: #000;
+    color: red;
+}
