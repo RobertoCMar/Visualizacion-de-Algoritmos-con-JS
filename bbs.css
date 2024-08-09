@@ -1,0 +1,7 @@
+.selected-element{
+    outline: solid 3px rgb(219, 219, 219);
+}
+
+.sorted-element{
+    outline: solid 2px rgb(38, 196, 65);
+}
